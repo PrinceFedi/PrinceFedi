@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![PrinceFedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceFedi&theme=tokyonight)](https://github.com/PrinceFedi/github-readme-stats)
+[![PrinceFedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceFedi&theme=tokyonight&rank_icon=github)](https://github.com/PrinceFedi/github-readme-stats)
 <!--
 **PrinceFedi/PrinceFedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
